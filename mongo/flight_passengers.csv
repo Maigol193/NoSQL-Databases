@@ -1,0 +1,1001 @@
+airline,origin,destination,day,month,year,age,gender,reason,stay,transit,connection,wait
+American Airlines,AICM,PDX,29,8,2019,51,unspecified,On vacation/Pleasure,Hotel,,True,266
+Southwest Airlines,SJC,AICM,29,10,2015,19,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Viva Aerobus,AICM,GDL,1,8,2021,77,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,GDL,LAX,28,10,2021,64,female,On vacation/Pleasure,Home,,True,674
+Southwest Airlines,AICM,JFK,24,6,2015,32,unspecified,Business/Work,Short-term homestay,,True,508
+Volaris,JFK,SJC,6,11,2014,78,unspecified,Back Home,Home,Car rental,False,0
+Viva Aerobus,LAX,SJC,27,9,2018,38,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,LAX,PDX,23,4,2015,27,unspecified,On vacation/Pleasure,Friend/Family,,True,493
+Volaris,SJD,AICM,4,3,2013,14,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+American Airlines,AIFA,AICM,10,8,2018,16,male,Business/Work,Hotel,,True,582
+Aeromexico,PHX,JFK,13,1,2016,39,male,Business/Work,Hotel,,True,422
+American Airlines,SJC,SJD,18,7,2015,45,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,PHX,PDX,2,1,2017,46,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aeromexico,JFK,LAX,7,9,2015,28,female,Back Home,Home,Car rental,False,0
+Southwest Airlines,JFK,PDX,21,12,2019,15,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Alaska,JFK,GDL,19,5,2021,49,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Aero Calafia Airlines,AIFA,PHX,20,6,2022,79,male,On vacation/Pleasure,Home,,True,166
+Alaska,SJC,SJD,8,11,2020,34,female,Business/Work,Hotel,Car rental,False,0
+Alaska,PHX,SJD,3,8,2019,62,male,Back Home,Home,Car rental,False,0
+Delta Airlines,JFK,SJC,5,2,2016,1,female,On vacation/Pleasure,Home,,True,152
+MagniCharters,AIFA,PDX,20,7,2016,67,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,PHX,AICM,12,4,2019,38,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,SJD,PDX,21,2,2019,37,unspecified,Business/Work,Friend/Family,,True,287
+American Airlines,LAX,PHX,31,1,2016,26,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,SJD,GDL,16,6,2017,50,unspecified,Back Home,Home,Car rental,False,0
+Volaris,LAX,GDL,13,10,2022,63,male,Business/Work,Hotel,Car rental,False,0
+Delta Airlines,PHX,GDL,8,3,2022,65,male,Back Home,Home,Car rental,False,0
+Aeromexico,PDX,PHX,7,9,2015,29,unspecified,Business/Work,Friend/Family,Car rental,False,0
+Viva Aerobus,LAX,AIFA,7,6,2019,28,male,Back Home,Home,Car rental,False,0
+Alaska,JFK,AIFA,12,12,2017,87,unspecified,Business/Work,Hotel,,True,505
+Aero Calafia Airlines,AIFA,LAX,10,4,2013,24,male,Back Home,Home,Car rental,False,0
+American Airlines,LAX,PHX,20,1,2022,57,undisclosed,Business/Work,Home,,True,610
+Alaska,GDL,LAX,28,1,2019,35,male,Business/Work,Friend/Family,,True,35
+Aero Calafia Airlines,AIFA,JFK,18,10,2014,81,undisclosed,On vacation/Pleasure,Friend/Family,,True,702
+Aero Calafia Airlines,LAX,SJD,24,8,2016,22,unspecified,Back Home,Home,Car rental,False,0
+Southwest Airlines,SJC,AICM,11,7,2021,29,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Volaris,AIFA,LAX,27,11,2020,2,unspecified,On vacation/Pleasure,Hotel,,True,621
+Viva Aerobus,JFK,AICM,5,12,2016,8,male,Business/Work,Friend/Family,Car rental,False,0
+American Airlines,PHX,AIFA,4,10,2022,56,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,SJC,AIFA,3,3,2018,88,male,Business/Work,Short-term homestay,,True,194
+Aeromexico,SJD,AICM,14,6,2015,16,male,Business/Work,Hotel,,True,619
+Delta Airlines,SJC,PDX,5,12,2018,88,male,On vacation/Pleasure,Home,Car rental,False,0
+Aeromexico,PDX,SJC,15,7,2013,89,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,PDX,GDL,29,12,2019,32,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,GDL,PDX,17,8,2014,86,male,On vacation/Pleasure,Friend/Family,,True,592
+Viva Aerobus,PDX,AIFA,3,1,2013,83,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Volaris,JFK,PDX,12,4,2015,64,undisclosed,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,LAX,PHX,26,4,2020,20,male,Back Home,Home,Car rental,False,0
+Delta Airlines,PHX,JFK,5,6,2013,76,female,On vacation/Pleasure,Short-term homestay,,True,570
+Aero Calafia Airlines,SJD,PHX,10,12,2015,60,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,SJC,AIFA,7,5,2020,4,unspecified,Business/Work,Short-term homestay,,True,484
+Volaris,JFK,PDX,22,11,2021,64,unspecified,Back Home,Home,Car rental,False,0
+Alaska,JFK,AIFA,18,5,2016,84,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,JFK,AICM,24,12,2020,7,undisclosed,On vacation/Pleasure,Short-term homestay,,True,188
+Viva Aerobus,JFK,PHX,6,12,2021,67,undisclosed,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,LAX,PHX,4,5,2016,25,unspecified,Back Home,Home,Car rental,False,0
+Alaska,AICM,AIFA,10,3,2015,19,male,On vacation/Pleasure,Home,,True,650
+American Airlines,AICM,LAX,4,1,2018,61,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,JFK,SJD,22,11,2017,35,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,AICM,LAX,3,11,2022,40,female,On vacation/Pleasure,Hotel,Car rental,False,0
+Aeromexico,SJC,JFK,19,11,2018,78,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Southwest Airlines,GDL,PHX,9,9,2020,29,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Alaska,LAX,JFK,26,10,2016,16,female,On vacation/Pleasure,Home,,True,644
+Viva Aerobus,JFK,AIFA,25,1,2022,55,male,Business/Work,Friend/Family,,True,381
+Southwest Airlines,JFK,LAX,2,6,2014,19,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+MagniCharters,AIFA,AICM,28,9,2015,28,undisclosed,Business/Work,Hotel,Car rental,False,0
+MagniCharters,AIFA,PHX,26,3,2014,72,male,Back Home,Home,Car rental,False,0
+MagniCharters,SJD,PDX,4,9,2013,43,unspecified,Business/Work,Hotel,Car rental,False,0
+Volaris,AICM,JFK,23,10,2020,8,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+MagniCharters,LAX,SJC,11,1,2018,72,male,Back Home,Home,Car rental,False,0
+MagniCharters,PDX,SJD,21,3,2023,75,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Delta Airlines,JFK,LAX,20,4,2015,18,unspecified,Business/Work,Hotel,Car rental,False,0
+Aeromexico,PDX,SJD,16,3,2020,18,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,JFK,PDX,24,6,2022,4,female,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,PDX,JFK,11,6,2015,90,female,Business/Work,Short-term homestay,,True,308
+Viva Aerobus,SJD,PHX,2,4,2018,43,unspecified,Back Home,Home,Car rental,False,0
+Volaris,PDX,JFK,21,5,2020,43,female,Business/Work,Short-term homestay,,True,318
+Alaska,JFK,PDX,7,1,2013,49,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,AICM,PHX,11,3,2015,58,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,GDL,SJC,2,10,2015,55,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,GDL,SJD,20,10,2019,57,female,Business/Work,Home,,True,702
+Viva Aerobus,PHX,AIFA,25,1,2016,4,undisclosed,Business/Work,Hotel,Car rental,False,0
+Aero Calafia Airlines,AIFA,AICM,11,1,2021,86,unspecified,On vacation/Pleasure,Short-term homestay,,True,206
+Viva Aerobus,PHX,SJD,23,3,2013,29,female,Business/Work,Short-term homestay,,True,680
+Aeromexico,SJD,LAX,28,11,2014,47,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Aeromexico,AIFA,LAX,30,5,2021,37,undisclosed,Business/Work,Hotel,Car rental,False,0
+Volaris,AIFA,PHX,26,9,2022,28,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,SJC,PHX,15,7,2020,26,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,JFK,PHX,19,10,2020,9,male,Business/Work,Friend/Family,Car rental,False,0
+Alaska,AICM,GDL,9,2,2022,68,unspecified,Back Home,Home,Car rental,False,0
+Alaska,AIFA,GDL,2,12,2022,76,undisclosed,On vacation/Pleasure,Hotel,,True,591
+Viva Aerobus,GDL,PDX,28,7,2018,36,male,Business/Work,Short-term homestay,Car rental,False,0
+Delta Airlines,JFK,SJD,25,3,2013,48,unspecified,Business/Work,Home,,True,277
+Delta Airlines,SJD,PHX,17,5,2018,86,female,Business/Work,Hotel,Car rental,False,0
+Aeromexico,PDX,GDL,15,8,2021,27,undisclosed,Business/Work,Hotel,,True,239
+Aero Calafia Airlines,SJC,JFK,31,12,2019,71,unspecified,Business/Work,Hotel,Car rental,False,0
+Delta Airlines,GDL,JFK,11,7,2018,45,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Delta Airlines,JFK,LAX,25,3,2021,58,unspecified,On vacation/Pleasure,Friend/Family,,True,483
+Delta Airlines,AICM,SJC,19,9,2017,42,male,Business/Work,Home,,True,406
+Alaska,AIFA,SJC,21,11,2014,16,male,Back Home,Home,Car rental,False,0
+Viva Aerobus,PDX,GDL,26,3,2013,76,unspecified,Business/Work,Hotel,,True,163
+Viva Aerobus,AICM,LAX,25,12,2019,75,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,SJC,AICM,30,5,2017,78,undisclosed,Business/Work,Short-term homestay,,True,260
+American Airlines,GDL,LAX,6,12,2022,75,female,On vacation/Pleasure,Short-term homestay,,True,392
+Aeromexico,LAX,AIFA,27,11,2019,35,female,On vacation/Pleasure,Hotel,,True,377
+Aero Calafia Airlines,LAX,GDL,7,8,2018,41,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aeromexico,SJD,PDX,9,6,2016,40,male,On vacation/Pleasure,Home,Car rental,False,0
+Southwest Airlines,GDL,SJC,23,2,2016,16,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Volaris,AIFA,PHX,9,7,2014,48,unspecified,Back Home,Home,Car rental,False,0
+Delta Airlines,JFK,LAX,30,3,2019,28,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,JFK,LAX,31,3,2016,75,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aeromexico,LAX,GDL,16,11,2018,64,male,Business/Work,Friend/Family,,True,639
+MagniCharters,SJC,AIFA,27,4,2020,60,female,On vacation/Pleasure,Short-term homestay,,True,467
+Alaska,AIFA,PDX,23,7,2019,33,female,Business/Work,Friend/Family,,True,540
+Aeromexico,GDL,SJD,12,8,2020,89,undisclosed,On vacation/Pleasure,Friend/Family,,True,490
+Aero Calafia Airlines,PDX,PHX,21,9,2014,23,female,Back Home,Home,Car rental,False,0
+Volaris,PHX,LAX,3,8,2018,27,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,AICM,PDX,20,5,2022,53,undisclosed,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,PHX,29,11,2018,71,male,Business/Work,Short-term homestay,Car rental,False,0
+Aeromexico,AIFA,GDL,16,12,2022,16,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,AIFA,AICM,10,1,2023,82,female,Business/Work,Short-term homestay,Car rental,False,0
+Delta Airlines,PDX,PHX,16,12,2021,68,unspecified,Business/Work,Hotel,,True,34
+Alaska,AIFA,PDX,4,3,2021,10,unspecified,Business/Work,Home,Car rental,False,0
+Aeromexico,SJD,GDL,29,1,2014,83,female,Business/Work,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,AICM,SJD,19,11,2018,47,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,PDX,AICM,16,1,2022,13,female,On vacation/Pleasure,Friend/Family,,True,520
+American Airlines,AICM,LAX,26,8,2016,47,undisclosed,Back Home,Home,Car rental,False,0
+Volaris,PHX,AICM,7,9,2015,26,male,Business/Work,Friend/Family,Car rental,False,0
+Delta Airlines,JFK,LAX,6,4,2015,78,undisclosed,On vacation/Pleasure,Friend/Family,,True,299
+Volaris,GDL,LAX,9,8,2019,37,undisclosed,On vacation/Pleasure,Friend/Family,,True,518
+Aero Calafia Airlines,JFK,AICM,20,4,2023,7,unspecified,On vacation/Pleasure,Short-term homestay,,True,190
+Aero Calafia Airlines,LAX,PHX,4,1,2015,59,male,On vacation/Pleasure,Home,Car rental,False,0
+American Airlines,SJC,SJD,17,5,2015,35,unspecified,Back Home,Home,Car rental,False,0
+Delta Airlines,PDX,PHX,28,12,2014,83,unspecified,Back Home,Home,Car rental,False,0
+Volaris,SJC,GDL,28,3,2016,10,male,Business/Work,Friend/Family,Car rental,False,0
+Volaris,AICM,PDX,30,5,2015,31,female,Business/Work,Home,,True,576
+Aeromexico,AIFA,SJC,16,8,2019,78,female,Business/Work,Friend/Family,Car rental,False,0
+Viva Aerobus,AICM,SJD,22,5,2018,1,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Aero Calafia Airlines,GDL,PHX,30,11,2015,12,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,SJC,22,7,2021,27,undisclosed,Business/Work,Hotel,Car rental,False,0
+Southwest Airlines,SJC,JFK,14,10,2020,50,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,PHX,AIFA,14,12,2019,47,male,On vacation/Pleasure,Friend/Family,,True,525
+Aero Calafia Airlines,PHX,AICM,3,11,2020,4,undisclosed,Business/Work,Hotel,,True,47
+Volaris,LAX,PHX,21,9,2020,84,female,Back Home,Home,Car rental,False,0
+Delta Airlines,LAX,AIFA,8,6,2016,5,undisclosed,Business/Work,Short-term homestay,,True,636
+Delta Airlines,PHX,SJC,2,10,2019,89,undisclosed,Business/Work,Hotel,Car rental,False,0
+Aero Calafia Airlines,GDL,PDX,25,6,2013,10,female,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,LAX,27,3,2023,12,unspecified,Back Home,Home,Car rental,False,0
+Volaris,JFK,AIFA,14,6,2014,31,male,Business/Work,Home,,True,451
+Alaska,GDL,SJC,5,10,2013,18,female,Business/Work,Home,Car rental,False,0
+MagniCharters,JFK,AIFA,5,1,2023,59,undisclosed,Business/Work,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,GDL,30,8,2022,13,unspecified,Business/Work,Friend/Family,,True,398
+Delta Airlines,SJD,AIFA,30,3,2019,14,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+Volaris,SJC,LAX,14,9,2015,20,female,Business/Work,Friend/Family,,True,492
+Alaska,SJC,JFK,6,12,2020,14,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,LAX,AICM,25,7,2015,60,male,Business/Work,Home,,True,200
+Alaska,AICM,GDL,20,8,2019,62,male,On vacation/Pleasure,Home,,True,435
+American Airlines,GDL,PDX,22,1,2018,28,female,On vacation/Pleasure,Friend/Family,,True,245
+MagniCharters,PDX,SJC,20,11,2014,27,undisclosed,Business/Work,Home,,True,131
+Viva Aerobus,JFK,PDX,17,12,2020,83,male,Business/Work,Home,Car rental,False,0
+Alaska,AICM,SJC,22,11,2021,64,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Viva Aerobus,LAX,PDX,19,8,2014,13,unspecified,Business/Work,Hotel,Car rental,False,0
+Aeromexico,AICM,JFK,9,4,2013,25,undisclosed,On vacation/Pleasure,Short-term homestay,,True,580
+Aero Calafia Airlines,SJC,JFK,8,9,2019,9,male,Business/Work,Friend/Family,Car rental,False,0
+Delta Airlines,PHX,JFK,10,1,2020,69,female,Business/Work,Friend/Family,,True,680
+Volaris,GDL,PDX,1,3,2018,64,undisclosed,On vacation/Pleasure,Friend/Family,,True,104
+MagniCharters,SJC,LAX,17,5,2013,50,undisclosed,Business/Work,Hotel,,True,357
+Viva Aerobus,SJD,SJC,2,12,2022,55,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Aero Calafia Airlines,LAX,JFK,17,2,2022,26,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,SJD,SJC,1,10,2013,1,unspecified,On vacation/Pleasure,Friend/Family,,True,600
+Aero Calafia Airlines,LAX,AICM,22,4,2016,81,female,Back Home,Home,Car rental,False,0
+Southwest Airlines,LAX,JFK,22,5,2022,27,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,SJD,AICM,25,12,2022,60,undisclosed,Back Home,Home,Car rental,False,0
+Southwest Airlines,AIFA,AICM,7,11,2022,22,male,Business/Work,Friend/Family,,True,673
+Viva Aerobus,JFK,SJD,5,2,2018,40,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,AICM,GDL,20,10,2022,36,undisclosed,Business/Work,Hotel,,True,496
+Volaris,GDL,AIFA,12,5,2021,82,undisclosed,On vacation/Pleasure,Home,,True,495
+Aeromexico,PHX,SJC,10,6,2022,57,undisclosed,Back Home,Home,Car rental,False,0
+Delta Airlines,LAX,SJC,10,3,2021,60,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AIFA,PHX,24,2,2017,40,male,On vacation/Pleasure,Friend/Family,,True,146
+Southwest Airlines,SJC,SJD,27,1,2018,48,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,PHX,PDX,27,5,2016,49,undisclosed,Back Home,Home,Car rental,False,0
+Aeromexico,LAX,PHX,30,5,2014,3,female,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Southwest Airlines,GDL,AICM,5,4,2017,66,female,On vacation/Pleasure,Home,,True,252
+Southwest Airlines,SJC,GDL,19,11,2022,63,female,Back Home,Home,Car rental,False,0
+Delta Airlines,PHX,SJD,20,6,2021,32,male,Back Home,Home,Car rental,False,0
+Delta Airlines,GDL,AICM,8,9,2015,76,undisclosed,On vacation/Pleasure,Hotel,,True,441
+Volaris,SJC,SJD,12,9,2019,9,female,Back Home,Home,Car rental,False,0
+Delta Airlines,AICM,SJC,27,10,2015,9,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Alaska,AICM,PDX,11,6,2015,45,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,PDX,JFK,7,7,2016,62,undisclosed,Back Home,Home,Car rental,False,0
+Aeromexico,AICM,SJC,26,1,2013,5,female,On vacation/Pleasure,Friend/Family,,True,699
+MagniCharters,SJD,PDX,17,12,2014,41,female,Business/Work,Short-term homestay,Car rental,False,0
+Delta Airlines,SJD,PHX,18,7,2017,47,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Delta Airlines,GDL,PHX,4,9,2015,87,unspecified,Back Home,Home,Car rental,False,0
+Volaris,PDX,SJD,12,2,2019,47,male,Back Home,Home,Car rental,False,0
+American Airlines,PDX,JFK,19,6,2014,83,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,JFK,AIFA,16,4,2018,48,male,On vacation/Pleasure,Home,,True,44
+MagniCharters,PDX,LAX,22,10,2013,48,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+MagniCharters,SJC,PHX,5,7,2013,33,male,Business/Work,Hotel,,True,80
+Aeromexico,PDX,GDL,10,3,2013,46,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,SJD,3,2,2014,41,undisclosed,On vacation/Pleasure,Home,,True,99
+Delta Airlines,LAX,SJD,3,1,2018,3,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,SJC,SJD,23,10,2019,80,female,Back Home,Home,Car rental,False,0
+American Airlines,SJC,GDL,31,8,2016,20,female,On vacation/Pleasure,Hotel,,True,341
+Southwest Airlines,JFK,PDX,6,6,2021,3,female,Back Home,Home,Car rental,False,0
+Alaska,PHX,SJD,28,10,2017,1,female,Back Home,Home,Car rental,False,0
+American Airlines,LAX,AICM,15,10,2014,82,female,Back Home,Home,Car rental,False,0
+Viva Aerobus,PHX,PDX,24,10,2020,52,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,PHX,PDX,15,6,2018,20,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Aero Calafia Airlines,LAX,GDL,25,7,2013,17,unspecified,On vacation/Pleasure,Hotel,,True,637
+Southwest Airlines,PDX,JFK,20,4,2020,2,female,On vacation/Pleasure,Short-term homestay,,True,67
+Viva Aerobus,PHX,SJD,16,5,2021,76,female,Back Home,Home,Car rental,False,0
+Delta Airlines,PDX,SJC,8,1,2022,41,male,Business/Work,Hotel,,True,73
+Alaska,JFK,GDL,10,5,2018,2,unspecified,Back Home,Home,Car rental,False,0
+Viva Aerobus,SJC,GDL,5,7,2017,33,male,Back Home,Home,Car rental,False,0
+Delta Airlines,GDL,JFK,28,8,2022,53,male,Back Home,Home,Car rental,False,0
+Viva Aerobus,PDX,LAX,7,4,2015,27,female,On vacation/Pleasure,Friend/Family,,True,439
+Volaris,SJD,AIFA,10,8,2019,32,female,Back Home,Home,Car rental,False,0
+Alaska,SJD,SJC,15,6,2016,48,undisclosed,On vacation/Pleasure,Home,,True,333
+Southwest Airlines,GDL,LAX,26,12,2020,73,female,Back Home,Home,Car rental,False,0
+MagniCharters,AICM,SJC,5,9,2017,86,female,On vacation/Pleasure,Hotel,,True,38
+MagniCharters,AICM,SJD,16,7,2015,39,undisclosed,On vacation/Pleasure,Short-term homestay,,True,536
+Volaris,AICM,JFK,1,12,2018,10,female,Back Home,Home,Car rental,False,0
+Aeromexico,LAX,PHX,30,3,2019,64,undisclosed,On vacation/Pleasure,Home,,True,518
+American Airlines,JFK,SJC,14,2,2018,89,female,On vacation/Pleasure,Hotel,,True,605
+Southwest Airlines,SJD,AIFA,27,12,2022,35,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Aeromexico,LAX,JFK,6,1,2017,29,undisclosed,Business/Work,Friend/Family,,True,125
+Volaris,PDX,SJD,30,5,2019,8,female,Business/Work,Home,,True,307
+Aeromexico,AICM,PHX,11,4,2013,64,male,Business/Work,Friend/Family,,True,531
+Aero Calafia Airlines,SJC,LAX,13,10,2013,50,undisclosed,On vacation/Pleasure,Home,,True,512
+Delta Airlines,PHX,AICM,10,6,2014,84,unspecified,Business/Work,Home,Car rental,False,0
+Aeromexico,PDX,AIFA,22,12,2021,41,male,Back Home,Home,Car rental,False,0
+Alaska,PDX,PHX,28,6,2019,89,unspecified,On vacation/Pleasure,Hotel,,True,181
+Alaska,PDX,JFK,24,12,2018,33,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,AIFA,25,4,2019,60,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,LAX,SJD,19,9,2021,16,unspecified,Back Home,Home,Car rental,False,0
+Viva Aerobus,AICM,PHX,6,10,2021,62,male,On vacation/Pleasure,Hotel,,True,364
+MagniCharters,GDL,AICM,20,2,2020,32,male,On vacation/Pleasure,Home,,True,161
+American Airlines,AICM,SJC,1,5,2021,7,male,Business/Work,Hotel,,True,443
+MagniCharters,SJD,PDX,14,11,2015,46,undisclosed,On vacation/Pleasure,Hotel,,True,702
+Viva Aerobus,SJC,GDL,6,12,2020,5,female,On vacation/Pleasure,Hotel,Car rental,False,0
+American Airlines,SJC,PDX,15,6,2018,43,male,Business/Work,Hotel,,True,76
+Southwest Airlines,GDL,LAX,2,4,2021,38,unspecified,On vacation/Pleasure,Home,,True,425
+Alaska,GDL,JFK,16,6,2021,66,male,On vacation/Pleasure,Short-term homestay,,True,479
+MagniCharters,JFK,AIFA,4,9,2013,14,male,Business/Work,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,JFK,SJD,9,5,2015,62,male,Business/Work,Friend/Family,Car rental,False,0
+Volaris,SJD,PHX,19,1,2019,30,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,GDL,AICM,14,5,2013,48,male,Business/Work,Hotel,,True,489
+Viva Aerobus,LAX,AIFA,1,11,2013,43,undisclosed,On vacation/Pleasure,Short-term homestay,,True,612
+Delta Airlines,LAX,SJC,6,8,2016,63,unspecified,Back Home,Home,Car rental,False,0
+Viva Aerobus,LAX,PHX,19,10,2015,9,unspecified,On vacation/Pleasure,Short-term homestay,,True,85
+Aero Calafia Airlines,SJD,AIFA,5,2,2023,32,unspecified,On vacation/Pleasure,Home,Car rental,False,0
+Viva Aerobus,PHX,SJC,22,6,2015,26,unspecified,On vacation/Pleasure,Friend/Family,,True,355
+Alaska,GDL,JFK,17,4,2014,31,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,SJC,PDX,25,9,2021,84,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,LAX,26,8,2022,72,undisclosed,Business/Work,Short-term homestay,,True,511
+American Airlines,PDX,PHX,12,1,2021,90,undisclosed,On vacation/Pleasure,Hotel,,True,278
+Aeromexico,LAX,SJC,3,1,2014,41,undisclosed,Business/Work,Home,,True,135
+Alaska,SJC,AIFA,13,4,2022,57,female,On vacation/Pleasure,Hotel,Car rental,False,0
+Aeromexico,PDX,SJC,7,2,2022,29,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,AIFA,LAX,13,8,2021,3,unspecified,On vacation/Pleasure,Home,,True,550
+Aeromexico,PHX,SJD,24,5,2018,62,unspecified,Back Home,Home,Car rental,False,0
+Delta Airlines,JFK,PHX,4,11,2020,34,unspecified,Back Home,Home,Car rental,False,0
+Delta Airlines,GDL,PDX,19,4,2013,31,female,Back Home,Home,Car rental,False,0
+American Airlines,AIFA,PHX,18,6,2014,36,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+MagniCharters,AIFA,LAX,4,9,2018,33,unspecified,On vacation/Pleasure,Short-term homestay,,True,418
+Aero Calafia Airlines,JFK,SJC,17,6,2018,66,female,Back Home,Home,Car rental,False,0
+American Airlines,AIFA,JFK,1,9,2021,82,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,AIFA,LAX,7,12,2016,87,undisclosed,Back Home,Home,Car rental,False,0
+Delta Airlines,SJC,GDL,4,7,2021,59,male,Business/Work,Friend/Family,,True,189
+Aero Calafia Airlines,SJD,AICM,31,8,2018,11,female,On vacation/Pleasure,Home,Car rental,False,0
+Delta Airlines,SJC,GDL,9,4,2014,23,unspecified,On vacation/Pleasure,Home,,True,93
+Delta Airlines,PDX,PHX,23,8,2018,89,male,On vacation/Pleasure,Home,Car rental,False,0
+MagniCharters,GDL,LAX,5,10,2018,6,undisclosed,Business/Work,Friend/Family,,True,488
+Southwest Airlines,LAX,AIFA,13,5,2019,17,female,On vacation/Pleasure,Home,,True,340
+MagniCharters,PHX,SJC,24,11,2019,77,female,Back Home,Home,Car rental,False,0
+Volaris,SJD,AICM,15,11,2021,85,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+American Airlines,LAX,SJD,11,8,2019,22,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,LAX,SJD,12,10,2013,31,undisclosed,On vacation/Pleasure,Hotel,,True,73
+Viva Aerobus,AIFA,JFK,5,5,2013,46,unspecified,On vacation/Pleasure,Hotel,,True,504
+Aeromexico,SJD,LAX,4,1,2020,64,undisclosed,Back Home,Home,Car rental,False,0
+Southwest Airlines,AIFA,AICM,18,6,2021,42,undisclosed,On vacation/Pleasure,Short-term homestay,,True,554
+Aero Calafia Airlines,AIFA,SJC,10,8,2014,54,undisclosed,Business/Work,Hotel,,True,44
+American Airlines,SJD,LAX,27,6,2016,46,male,Back Home,Home,Car rental,False,0
+American Airlines,JFK,SJD,25,12,2014,78,male,Business/Work,Short-term homestay,,True,411
+Viva Aerobus,AIFA,SJC,30,6,2021,10,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Alaska,SJC,PHX,27,4,2013,26,female,Business/Work,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,AICM,GDL,19,3,2021,77,undisclosed,Business/Work,Friend/Family,,True,564
+Aeromexico,JFK,LAX,13,7,2019,42,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Viva Aerobus,SJD,AIFA,12,7,2017,83,female,Back Home,Home,Car rental,False,0
+Southwest Airlines,JFK,PHX,10,5,2014,48,female,On vacation/Pleasure,Hotel,Car rental,False,0
+Volaris,PHX,PDX,4,3,2017,49,female,On vacation/Pleasure,Home,,True,479
+MagniCharters,LAX,PDX,25,2,2018,80,female,Back Home,Home,Car rental,False,0
+Southwest Airlines,PHX,JFK,19,6,2019,26,unspecified,On vacation/Pleasure,Short-term homestay,,True,257
+Aero Calafia Airlines,PHX,GDL,14,5,2022,57,undisclosed,Business/Work,Hotel,Car rental,False,0
+Aeromexico,SJD,PDX,21,4,2021,28,unspecified,On vacation/Pleasure,Short-term homestay,,True,367
+Viva Aerobus,AIFA,AICM,22,3,2020,19,female,Back Home,Home,Car rental,False,0
+Volaris,PHX,LAX,26,9,2013,13,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,GDL,LAX,22,5,2022,14,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,PDX,14,9,2018,2,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Viva Aerobus,AIFA,GDL,18,11,2013,21,undisclosed,Business/Work,Hotel,,True,340
+American Airlines,PDX,AIFA,9,7,2019,90,male,On vacation/Pleasure,Hotel,Car rental,False,0
+Volaris,LAX,AICM,17,9,2020,84,female,Business/Work,Home,Car rental,False,0
+Volaris,LAX,GDL,15,12,2021,50,unspecified,Business/Work,Home,Car rental,False,0
+Viva Aerobus,PDX,LAX,24,1,2017,64,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Viva Aerobus,SJD,SJC,14,4,2019,43,female,Business/Work,Home,Car rental,False,0
+Aeromexico,AICM,LAX,31,12,2018,2,unspecified,Business/Work,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,SJD,AIFA,11,8,2017,2,undisclosed,Business/Work,Hotel,Car rental,False,0
+Delta Airlines,GDL,JFK,30,3,2021,44,female,On vacation/Pleasure,Short-term homestay,,True,481
+American Airlines,SJC,GDL,12,5,2016,71,male,On vacation/Pleasure,Short-term homestay,,True,298
+Alaska,PDX,JFK,5,5,2013,48,male,Back Home,Home,Car rental,False,0
+Aeromexico,AICM,AIFA,28,9,2014,60,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,LAX,GDL,2,11,2016,63,male,Business/Work,Home,,True,358
+Aero Calafia Airlines,AIFA,AICM,18,3,2023,71,male,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Viva Aerobus,LAX,AICM,4,3,2016,85,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Viva Aerobus,LAX,PDX,15,8,2017,67,female,Back Home,Home,Car rental,False,0
+Aeromexico,JFK,GDL,9,7,2022,50,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,AIFA,JFK,20,1,2015,37,male,Business/Work,Home,,True,545
+Aero Calafia Airlines,SJC,SJD,14,2,2022,60,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,PHX,SJD,25,3,2017,22,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,LAX,GDL,3,11,2015,90,undisclosed,Business/Work,Home,Car rental,False,0
+Aero Calafia Airlines,PDX,AICM,20,3,2015,77,female,Back Home,Home,Car rental,False,0
+Southwest Airlines,GDL,SJC,5,11,2017,88,male,On vacation/Pleasure,Hotel,Car rental,False,0
+MagniCharters,AICM,LAX,15,11,2017,4,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,LAX,AIFA,21,12,2021,71,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Aeromexico,PDX,PHX,6,4,2014,28,undisclosed,Business/Work,Hotel,,True,367
+Delta Airlines,PDX,SJD,3,9,2022,75,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Delta Airlines,LAX,JFK,27,10,2014,37,male,On vacation/Pleasure,Hotel,,True,492
+Volaris,SJD,LAX,12,11,2016,89,male,Business/Work,Home,,True,491
+American Airlines,LAX,AICM,15,9,2016,10,unspecified,On vacation/Pleasure,Friend/Family,,True,394
+MagniCharters,SJC,PHX,20,12,2018,14,male,On vacation/Pleasure,Friend/Family,Car rental,False,0
+American Airlines,SJD,GDL,16,1,2013,22,unspecified,Business/Work,Hotel,,True,201
+American Airlines,AICM,SJC,14,5,2020,32,female,Back Home,Home,Car rental,False,0
+American Airlines,PDX,GDL,30,6,2018,84,male,Business/Work,Friend/Family,Car rental,False,0
+Southwest Airlines,JFK,SJC,19,8,2022,63,female,On vacation/Pleasure,Friend/Family,,True,511
+Delta Airlines,JFK,PDX,29,8,2014,82,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Volaris,PHX,GDL,29,7,2016,45,unspecified,Business/Work,Friend/Family,Car rental,False,0
+Southwest Airlines,LAX,AIFA,21,11,2014,69,female,Business/Work,Home,,True,323
+Alaska,JFK,LAX,13,5,2013,73,female,On vacation/Pleasure,Hotel,,True,382
+Southwest Airlines,SJC,AIFA,26,3,2022,59,undisclosed,Business/Work,Home,Car rental,False,0
+Volaris,LAX,JFK,23,9,2017,21,female,Business/Work,Friend/Family,Car rental,False,0
+American Airlines,SJC,SJD,9,6,2014,33,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Viva Aerobus,PDX,JFK,16,3,2013,72,undisclosed,On vacation/Pleasure,Hotel,,True,408
+American Airlines,PHX,AICM,14,7,2013,67,male,On vacation/Pleasure,Hotel,,True,390
+Aeromexico,SJC,PDX,12,3,2015,74,undisclosed,On vacation/Pleasure,Hotel,,True,543
+Alaska,SJD,AIFA,7,11,2020,70,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+American Airlines,JFK,LAX,8,3,2014,48,unspecified,On vacation/Pleasure,Short-term homestay,,True,386
+MagniCharters,AICM,LAX,20,12,2017,37,male,Back Home,Home,Car rental,False,0
+Viva Aerobus,AIFA,JFK,13,10,2022,63,male,Business/Work,Home,,True,662
+MagniCharters,SJD,PDX,3,5,2014,82,undisclosed,On vacation/Pleasure,Hotel,,True,89
+Alaska,JFK,PDX,22,7,2016,63,unspecified,Business/Work,Short-term homestay,,True,498
+Southwest Airlines,SJD,SJC,11,5,2019,4,female,Business/Work,Friend/Family,Car rental,False,0
+Volaris,GDL,PHX,26,12,2016,72,male,On vacation/Pleasure,Home,,True,377
+Aero Calafia Airlines,SJD,JFK,14,9,2020,62,male,Business/Work,Hotel,,True,340
+Viva Aerobus,LAX,GDL,27,1,2013,84,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,PHX,AIFA,26,4,2019,5,unspecified,Business/Work,Hotel,Car rental,False,0
+Aeromexico,AICM,PDX,11,1,2016,22,female,Business/Work,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,SJD,SJC,11,10,2014,76,female,On vacation/Pleasure,Home,Car rental,False,0
+Aeromexico,JFK,AICM,9,8,2018,41,female,Back Home,Home,Car rental,False,0
+MagniCharters,AIFA,JFK,21,4,2013,6,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,AICM,GDL,22,11,2018,33,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Volaris,AIFA,PDX,15,12,2018,40,undisclosed,Business/Work,Hotel,Car rental,False,0
+MagniCharters,GDL,LAX,20,12,2013,4,female,Business/Work,Friend/Family,,True,520
+Alaska,AIFA,PHX,28,9,2022,57,female,On vacation/Pleasure,Short-term homestay,,True,362
+Alaska,AICM,LAX,16,3,2022,83,undisclosed,On vacation/Pleasure,Hotel,,True,668
+Volaris,AICM,PDX,21,4,2021,76,unspecified,Back Home,Home,Car rental,False,0
+Southwest Airlines,AIFA,PDX,15,1,2013,88,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,PDX,AIFA,10,1,2017,55,male,Back Home,Home,Car rental,False,0
+MagniCharters,JFK,PDX,28,3,2018,14,male,Back Home,Home,Car rental,False,0
+American Airlines,SJD,JFK,10,2,2023,64,unspecified,Business/Work,Hotel,Car rental,False,0
+Aero Calafia Airlines,AIFA,JFK,12,2,2016,9,undisclosed,Back Home,Home,Car rental,False,0
+Aeromexico,AIFA,GDL,9,3,2017,4,unspecified,On vacation/Pleasure,Friend/Family,,True,666
+Aero Calafia Airlines,SJD,PDX,18,10,2013,83,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Alaska,LAX,PDX,18,6,2013,15,unspecified,Business/Work,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,LAX,25,7,2019,67,unspecified,Business/Work,Short-term homestay,,True,285
+Viva Aerobus,GDL,PHX,7,6,2014,83,female,Business/Work,Short-term homestay,,True,67
+Southwest Airlines,AIFA,AICM,24,9,2016,18,female,Back Home,Home,Car rental,False,0
+MagniCharters,GDL,JFK,19,10,2018,13,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,PDX,AIFA,18,1,2021,82,unspecified,On vacation/Pleasure,Home,,True,512
+Delta Airlines,AICM,PHX,17,9,2022,39,female,Business/Work,Short-term homestay,,True,120
+Volaris,SJD,SJC,27,7,2021,24,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Delta Airlines,SJD,PHX,4,12,2019,46,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,SJC,PHX,12,5,2013,77,unspecified,Back Home,Home,Car rental,False,0
+Delta Airlines,PHX,PDX,19,4,2018,1,female,Back Home,Home,Car rental,False,0
+Delta Airlines,AICM,AIFA,20,4,2020,53,unspecified,Business/Work,Friend/Family,,True,473
+Volaris,LAX,GDL,5,12,2017,16,unspecified,Business/Work,Home,,True,677
+American Airlines,PHX,SJD,24,9,2021,38,male,Back Home,Home,Car rental,False,0
+Aeromexico,SJC,GDL,1,10,2016,89,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Volaris,JFK,AICM,27,3,2017,49,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,AICM,GDL,7,1,2022,14,undisclosed,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,SJC,AICM,25,9,2020,4,female,Back Home,Home,Car rental,False,0
+American Airlines,JFK,SJD,7,4,2022,2,female,Back Home,Home,Car rental,False,0
+American Airlines,PDX,SJC,15,10,2013,59,male,Back Home,Home,Car rental,False,0
+Aeromexico,JFK,AIFA,10,11,2020,3,female,On vacation/Pleasure,Short-term homestay,,True,271
+MagniCharters,SJD,AICM,22,3,2023,58,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+Volaris,PHX,AICM,1,6,2021,3,undisclosed,Business/Work,Friend/Family,,True,331
+Aero Calafia Airlines,AICM,JFK,1,6,2017,54,female,Back Home,Home,Car rental,False,0
+Volaris,PDX,PHX,4,10,2015,78,undisclosed,Back Home,Home,Car rental,False,0
+Southwest Airlines,AIFA,JFK,1,2,2013,83,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Alaska,AICM,PHX,31,5,2020,66,undisclosed,Back Home,Home,Car rental,False,0
+Delta Airlines,SJD,GDL,24,8,2021,11,female,Business/Work,Hotel,Car rental,False,0
+American Airlines,JFK,SJC,8,11,2016,1,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,PHX,LAX,7,5,2017,49,unspecified,Back Home,Home,Car rental,False,0
+Alaska,AICM,SJC,5,8,2013,41,female,Back Home,Home,Car rental,False,0
+Alaska,PDX,AICM,4,8,2015,67,unspecified,Back Home,Home,Car rental,False,0
+Volaris,GDL,AIFA,14,11,2022,73,unspecified,Back Home,Home,Car rental,False,0
+Alaska,JFK,LAX,7,8,2015,47,female,On vacation/Pleasure,Home,,True,700
+MagniCharters,LAX,PDX,8,2,2015,88,male,Back Home,Home,Car rental,False,0
+American Airlines,PHX,AIFA,6,9,2015,41,male,Back Home,Home,Car rental,False,0
+MagniCharters,JFK,AIFA,20,5,2021,9,female,Back Home,Home,Car rental,False,0
+Southwest Airlines,PHX,SJC,14,1,2023,48,female,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aeromexico,GDL,PDX,25,8,2018,70,female,Back Home,Home,Car rental,False,0
+MagniCharters,PHX,JFK,10,4,2019,2,male,On vacation/Pleasure,Hotel,Car rental,False,0
+Aero Calafia Airlines,PHX,AIFA,17,8,2015,39,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,PDX,LAX,5,5,2015,61,undisclosed,On vacation/Pleasure,Home,,True,500
+Southwest Airlines,AIFA,SJD,17,8,2020,21,male,Business/Work,Friend/Family,,True,296
+Southwest Airlines,AICM,GDL,18,7,2022,15,undisclosed,On vacation/Pleasure,Friend/Family,,True,590
+MagniCharters,SJD,LAX,25,11,2022,35,undisclosed,On vacation/Pleasure,Home,,True,484
+MagniCharters,LAX,SJD,27,6,2017,2,unspecified,Business/Work,Hotel,Car rental,False,0
+Alaska,SJC,AIFA,24,11,2016,10,unspecified,Back Home,Home,Car rental,False,0
+Viva Aerobus,GDL,PDX,23,11,2021,81,male,On vacation/Pleasure,Short-term homestay,,True,436
+MagniCharters,SJD,GDL,18,12,2016,38,male,Back Home,Home,Car rental,False,0
+Alaska,JFK,AICM,22,2,2021,42,male,Business/Work,Short-term homestay,Car rental,False,0
+Southwest Airlines,PHX,JFK,4,7,2016,10,male,On vacation/Pleasure,Hotel,,True,370
+Aeromexico,PDX,AICM,7,8,2015,53,undisclosed,On vacation/Pleasure,Hotel,,True,51
+Aeromexico,GDL,SJD,26,11,2013,60,female,Business/Work,Short-term homestay,,True,664
+Southwest Airlines,PHX,GDL,9,10,2021,47,unspecified,On vacation/Pleasure,Short-term homestay,,True,333
+Volaris,AICM,PDX,19,8,2018,62,female,Back Home,Home,Car rental,False,0
+Viva Aerobus,PDX,LAX,17,8,2017,58,male,On vacation/Pleasure,Short-term homestay,,True,366
+Volaris,AIFA,PHX,15,3,2018,84,male,Business/Work,Hotel,,True,718
+Aeromexico,SJC,JFK,30,7,2016,60,unspecified,On vacation/Pleasure,Home,Car rental,False,0
+Southwest Airlines,PHX,AICM,25,10,2016,26,male,Business/Work,Friend/Family,,True,375
+Delta Airlines,GDL,PDX,12,3,2014,23,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+Alaska,SJD,PHX,9,8,2017,86,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,AICM,GDL,28,1,2014,21,male,On vacation/Pleasure,Short-term homestay,,True,486
+Aeromexico,PHX,SJC,11,9,2014,56,female,Business/Work,Hotel,Car rental,False,0
+MagniCharters,SJD,LAX,1,4,2023,52,undisclosed,Business/Work,Hotel,Car rental,False,0
+Viva Aerobus,LAX,JFK,26,1,2022,90,undisclosed,Back Home,Home,Car rental,False,0
+Aeromexico,PDX,GDL,28,12,2016,85,undisclosed,Business/Work,Short-term homestay,,True,339
+American Airlines,PHX,JFK,19,9,2013,51,unspecified,Business/Work,Hotel,Car rental,False,0
+Volaris,SJC,GDL,11,8,2018,10,unspecified,Back Home,Home,Car rental,False,0
+Delta Airlines,SJD,GDL,24,8,2016,4,female,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Alaska,SJD,LAX,2,10,2014,61,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,GDL,SJD,14,6,2020,78,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,GDL,27,4,2013,59,male,Business/Work,Hotel,Car rental,False,0
+Southwest Airlines,PHX,SJD,20,5,2016,46,female,Back Home,Home,Car rental,False,0
+American Airlines,AIFA,JFK,11,9,2015,28,unspecified,Business/Work,Hotel,,True,585
+Alaska,LAX,GDL,11,8,2017,84,male,On vacation/Pleasure,Home,,True,454
+American Airlines,SJD,GDL,1,6,2021,51,unspecified,Back Home,Home,Car rental,False,0
+Southwest Airlines,SJC,PHX,24,9,2016,86,male,Business/Work,Home,Car rental,False,0
+Volaris,LAX,PDX,26,5,2014,70,male,Back Home,Home,Car rental,False,0
+Aeromexico,SJC,AICM,22,6,2021,63,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+Aeromexico,SJD,AIFA,8,9,2018,72,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Alaska,GDL,LAX,16,3,2019,73,undisclosed,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,PDX,GDL,6,6,2016,7,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+American Airlines,AICM,PHX,18,10,2015,67,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,LAX,AICM,17,2,2019,53,male,On vacation/Pleasure,Home,,True,379
+Aero Calafia Airlines,SJD,PHX,16,8,2022,4,female,Back Home,Home,Car rental,False,0
+Volaris,SJC,JFK,21,1,2014,24,female,Business/Work,Short-term homestay,,True,124
+Southwest Airlines,PDX,JFK,5,1,2015,24,undisclosed,Back Home,Home,Car rental,False,0
+Volaris,PDX,LAX,28,9,2014,60,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Aeromexico,SJD,SJC,2,9,2017,8,female,On vacation/Pleasure,Hotel,,True,501
+Aero Calafia Airlines,SJC,JFK,5,7,2018,32,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,AIFA,LAX,28,1,2014,73,female,Back Home,Home,Car rental,False,0
+Delta Airlines,PHX,JFK,25,7,2018,64,male,Business/Work,Short-term homestay,Car rental,False,0
+Aeromexico,LAX,PHX,26,3,2017,16,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,LAX,GDL,12,12,2018,71,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,LAX,AICM,26,2,2020,16,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,AIFA,SJC,7,7,2018,77,unspecified,On vacation/Pleasure,Home,Car rental,False,0
+Aeromexico,GDL,AIFA,7,4,2022,10,male,Business/Work,Short-term homestay,Car rental,False,0
+Aeromexico,LAX,AICM,8,11,2013,40,male,Business/Work,Home,Car rental,False,0
+American Airlines,PDX,PHX,7,8,2018,66,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,JFK,PHX,19,9,2015,80,male,On vacation/Pleasure,Home,Car rental,False,0
+Delta Airlines,PDX,AICM,7,8,2017,85,unspecified,Business/Work,Friend/Family,Car rental,False,0
+MagniCharters,PHX,SJC,2,9,2016,25,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,PDX,GDL,31,5,2015,21,female,Back Home,Home,Car rental,False,0
+Aeromexico,JFK,PHX,25,10,2018,75,undisclosed,Business/Work,Hotel,Car rental,False,0
+Alaska,LAX,AICM,10,4,2013,32,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Volaris,LAX,PDX,20,4,2014,17,female,On vacation/Pleasure,Short-term homestay,,True,568
+Aero Calafia Airlines,AIFA,SJD,31,5,2022,21,undisclosed,Business/Work,Hotel,Car rental,False,0
+Volaris,GDL,AIFA,24,11,2017,1,male,Back Home,Home,Car rental,False,0
+MagniCharters,GDL,PDX,21,6,2018,39,female,Back Home,Home,Car rental,False,0
+Volaris,AIFA,PDX,9,12,2016,21,female,Business/Work,Short-term homestay,Car rental,False,0
+Delta Airlines,PHX,GDL,14,10,2018,35,male,Business/Work,Short-term homestay,Car rental,False,0
+American Airlines,AIFA,GDL,10,11,2019,85,female,Business/Work,Hotel,Car rental,False,0
+Delta Airlines,PDX,PHX,11,2,2023,20,unspecified,Back Home,Home,Car rental,False,0
+Alaska,PHX,SJC,28,11,2022,85,undisclosed,Back Home,Home,Car rental,False,0
+Aeromexico,SJC,GDL,6,2,2018,16,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,SJD,GDL,11,4,2017,19,undisclosed,Business/Work,Short-term homestay,,True,612
+MagniCharters,GDL,PHX,18,2,2018,22,undisclosed,Back Home,Home,Car rental,False,0
+Volaris,PDX,JFK,30,11,2017,57,male,Business/Work,Short-term homestay,Car rental,False,0
+Southwest Airlines,JFK,SJD,31,5,2014,55,undisclosed,On vacation/Pleasure,Home,,True,246
+MagniCharters,LAX,AIFA,1,4,2014,32,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Volaris,SJD,PDX,28,12,2015,18,male,Back Home,Home,Car rental,False,0
+Aeromexico,PHX,SJC,10,12,2017,63,male,On vacation/Pleasure,Hotel,,True,62
+Viva Aerobus,AIFA,SJC,24,7,2022,39,male,Business/Work,Short-term homestay,Car rental,False,0
+Aeromexico,PHX,JFK,18,10,2022,56,female,On vacation/Pleasure,Short-term homestay,,True,102
+American Airlines,LAX,AICM,31,5,2018,10,male,Business/Work,Friend/Family,Car rental,False,0
+Volaris,AICM,SJD,4,6,2018,80,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Delta Airlines,PDX,SJD,3,2,2020,11,unspecified,Business/Work,Home,,True,676
+Delta Airlines,LAX,AIFA,23,7,2022,22,female,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Volaris,SJD,SJC,8,11,2013,31,undisclosed,Back Home,Home,Car rental,False,0
+Southwest Airlines,JFK,GDL,7,8,2014,67,male,On vacation/Pleasure,Home,,True,628
+Southwest Airlines,SJD,GDL,30,3,2018,38,male,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Alaska,JFK,PDX,11,8,2014,67,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Aeromexico,PDX,AIFA,10,3,2022,36,undisclosed,Back Home,Home,Car rental,False,0
+Aeromexico,GDL,SJD,6,3,2014,87,male,Back Home,Home,Car rental,False,0
+Volaris,PDX,GDL,10,3,2020,34,undisclosed,Back Home,Home,Car rental,False,0
+American Airlines,PHX,GDL,15,4,2014,65,unspecified,Back Home,Home,Car rental,False,0
+Delta Airlines,PDX,SJD,4,10,2015,64,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,SJC,AIFA,4,3,2018,38,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Volaris,PHX,SJC,22,10,2022,73,female,Back Home,Home,Car rental,False,0
+Aeromexico,AIFA,PHX,5,6,2022,42,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,AIFA,JFK,25,2,2017,70,male,Business/Work,Friend/Family,,True,300
+Aero Calafia Airlines,GDL,SJD,15,6,2014,11,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,GDL,SJD,26,1,2019,85,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+American Airlines,AIFA,SJD,9,11,2022,31,female,Business/Work,Friend/Family,Car rental,False,0
+Volaris,SJC,PHX,20,5,2018,23,female,Business/Work,Home,Car rental,False,0
+MagniCharters,GDL,JFK,14,9,2017,33,female,Back Home,Home,Car rental,False,0
+Volaris,JFK,GDL,22,9,2022,61,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,PHX,LAX,13,1,2017,10,undisclosed,Business/Work,Short-term homestay,,True,154
+MagniCharters,PHX,SJD,9,12,2015,5,female,On vacation/Pleasure,Short-term homestay,,True,52
+Southwest Airlines,JFK,GDL,10,8,2013,12,unspecified,Business/Work,Friend/Family,,True,119
+Aeromexico,AIFA,PDX,18,6,2020,59,male,Back Home,Home,Car rental,False,0
+American Airlines,JFK,SJD,26,12,2020,61,female,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Viva Aerobus,PDX,AIFA,22,3,2023,2,unspecified,Back Home,Home,Car rental,False,0
+Southwest Airlines,PDX,SJC,20,8,2014,25,undisclosed,Back Home,Home,Car rental,False,0
+American Airlines,PHX,SJD,24,1,2014,20,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,GDL,SJD,18,4,2017,7,undisclosed,Business/Work,Hotel,,True,417
+MagniCharters,SJC,AICM,11,8,2021,21,unspecified,Business/Work,Friend/Family,Car rental,False,0
+Delta Airlines,AICM,AIFA,10,2,2020,11,male,Business/Work,Hotel,,True,99
+Alaska,SJD,JFK,30,1,2015,75,male,Back Home,Home,Car rental,False,0
+Volaris,AICM,SJD,31,7,2013,35,male,On vacation/Pleasure,Hotel,Car rental,False,0
+American Airlines,JFK,SJD,19,5,2018,36,female,Back Home,Home,Car rental,False,0
+Volaris,AIFA,SJC,30,9,2015,46,female,Business/Work,Home,Car rental,False,0
+Delta Airlines,PHX,AIFA,22,11,2021,67,unspecified,Back Home,Home,Car rental,False,0
+Volaris,JFK,AICM,6,10,2018,22,female,Business/Work,Hotel,Car rental,False,0
+Volaris,AIFA,AICM,10,8,2022,39,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,SJD,SJC,10,7,2016,42,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,SJD,AICM,5,3,2016,39,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,GDL,LAX,24,12,2016,72,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,PDX,SJC,4,11,2019,58,male,Back Home,Home,Car rental,False,0
+MagniCharters,GDL,LAX,27,2,2020,80,female,On vacation/Pleasure,Short-term homestay,,True,438
+Aeromexico,PHX,AICM,21,8,2021,2,male,On vacation/Pleasure,Hotel,Car rental,False,0
+Volaris,SJC,AIFA,2,1,2017,57,female,Business/Work,Home,,True,388
+Delta Airlines,SJC,PHX,31,7,2015,17,undisclosed,Business/Work,Home,Car rental,False,0
+Aeromexico,LAX,SJC,7,7,2020,90,male,On vacation/Pleasure,Home,,True,386
+Alaska,SJC,PHX,15,1,2013,77,undisclosed,On vacation/Pleasure,Hotel,,True,434
+Delta Airlines,PHX,JFK,14,6,2018,35,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,PDX,6,9,2013,56,unspecified,Business/Work,Hotel,Car rental,False,0
+Southwest Airlines,LAX,AIFA,14,11,2013,27,male,Business/Work,Short-term homestay,,True,50
+Alaska,JFK,SJD,26,6,2019,60,male,Business/Work,Short-term homestay,,True,477
+Viva Aerobus,SJD,SJC,21,7,2013,23,female,Back Home,Home,Car rental,False,0
+Aeromexico,SJD,AIFA,22,5,2020,36,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,SJC,AICM,26,9,2013,42,unspecified,Business/Work,Home,,True,271
+Aeromexico,AIFA,JFK,18,12,2016,28,undisclosed,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,AIFA,21,2,2013,71,undisclosed,On vacation/Pleasure,Hotel,,True,468
+Volaris,PHX,JFK,2,10,2020,31,female,On vacation/Pleasure,Home,Car rental,False,0
+Aero Calafia Airlines,PDX,LAX,28,4,2017,31,unspecified,Back Home,Home,Car rental,False,0
+Alaska,AICM,GDL,2,1,2018,12,female,Back Home,Home,Car rental,False,0
+MagniCharters,PDX,SJD,22,3,2020,10,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,PDX,SJC,20,12,2013,15,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,JFK,PDX,7,5,2018,88,undisclosed,Back Home,Home,Car rental,False,0
+Delta Airlines,PDX,SJC,28,1,2019,24,female,On vacation/Pleasure,Friend/Family,,True,387
+Delta Airlines,LAX,JFK,17,10,2020,64,female,Back Home,Home,Car rental,False,0
+Viva Aerobus,PDX,AIFA,1,1,2018,39,female,Back Home,Home,Car rental,False,0
+American Airlines,AICM,LAX,14,8,2019,80,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,PDX,JFK,3,3,2023,39,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Volaris,AIFA,SJD,6,1,2017,34,male,On vacation/Pleasure,Short-term homestay,,True,613
+Volaris,LAX,JFK,11,9,2016,31,unspecified,Business/Work,Friend/Family,Car rental,False,0
+Southwest Airlines,JFK,GDL,28,9,2018,59,unspecified,Business/Work,Hotel,Car rental,False,0
+Aeromexico,GDL,SJC,12,12,2016,10,unspecified,On vacation/Pleasure,Hotel,,True,272
+Southwest Airlines,PHX,SJC,3,1,2015,17,female,Business/Work,Short-term homestay,Car rental,False,0
+MagniCharters,AIFA,GDL,16,12,2022,13,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+MagniCharters,LAX,JFK,27,2,2023,40,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,AIFA,JFK,18,2,2014,14,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aeromexico,AIFA,JFK,20,10,2017,67,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aeromexico,AIFA,GDL,29,9,2013,66,male,On vacation/Pleasure,Short-term homestay,,True,611
+Aeromexico,PHX,AICM,17,2,2015,76,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,AICM,SJD,25,9,2016,24,male,Business/Work,Hotel,,True,86
+Volaris,LAX,AICM,29,7,2014,26,female,Business/Work,Short-term homestay,,True,73
+Delta Airlines,PDX,SJD,15,1,2019,19,female,On vacation/Pleasure,Home,Car rental,False,0
+Aeromexico,AICM,AIFA,16,9,2014,26,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Volaris,SJC,LAX,29,7,2013,32,undisclosed,Back Home,Home,Car rental,False,0
+Volaris,JFK,PDX,12,3,2021,62,undisclosed,Back Home,Home,Car rental,False,0
+American Airlines,LAX,SJD,22,10,2017,1,female,On vacation/Pleasure,Home,,True,306
+Viva Aerobus,AIFA,GDL,28,10,2021,89,unspecified,Business/Work,Short-term homestay,,True,396
+Delta Airlines,AIFA,PHX,8,9,2013,52,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,PDX,16,12,2014,82,male,Business/Work,Short-term homestay,Car rental,False,0
+MagniCharters,LAX,SJC,30,1,2022,1,female,On vacation/Pleasure,Friend/Family,,True,354
+Aero Calafia Airlines,GDL,LAX,1,5,2018,80,male,Back Home,Home,Car rental,False,0
+American Airlines,PHX,JFK,19,8,2021,72,male,On vacation/Pleasure,Hotel,,True,38
+Volaris,SJC,JFK,11,11,2022,19,unspecified,Back Home,Home,Car rental,False,0
+Alaska,AIFA,LAX,7,7,2022,1,unspecified,Business/Work,Home,Car rental,False,0
+Viva Aerobus,PDX,LAX,5,9,2014,30,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,PHX,SJC,8,6,2019,53,male,Business/Work,Home,Car rental,False,0
+Southwest Airlines,PDX,PHX,7,9,2022,59,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Delta Airlines,PDX,SJC,26,3,2016,66,male,Back Home,Home,Car rental,False,0
+Alaska,AICM,AIFA,29,11,2017,59,male,Back Home,Home,Car rental,False,0
+Volaris,AICM,JFK,9,8,2016,55,female,Business/Work,Short-term homestay,Car rental,False,0
+Alaska,PDX,SJC,22,8,2015,61,female,On vacation/Pleasure,Friend/Family,,True,420
+Aero Calafia Airlines,SJD,PDX,6,12,2019,63,female,Business/Work,Hotel,Car rental,False,0
+Volaris,AIFA,PHX,12,7,2017,15,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,LAX,SJD,19,12,2018,15,unspecified,Business/Work,Hotel,Car rental,False,0
+Aero Calafia Airlines,GDL,SJD,31,5,2018,60,unspecified,Back Home,Home,Car rental,False,0
+Southwest Airlines,JFK,AIFA,2,11,2019,80,unspecified,Business/Work,Friend/Family,Car rental,False,0
+American Airlines,AIFA,LAX,23,7,2022,77,female,Business/Work,Friend/Family,Car rental,False,0
+MagniCharters,LAX,GDL,5,8,2021,36,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,GDL,LAX,15,6,2016,78,female,Business/Work,Home,Car rental,False,0
+Volaris,JFK,SJD,8,9,2020,30,undisclosed,On vacation/Pleasure,Friend/Family,,True,143
+Alaska,LAX,GDL,28,12,2022,15,male,Back Home,Home,Car rental,False,0
+Volaris,SJD,LAX,27,6,2020,84,female,Back Home,Home,Car rental,False,0
+American Airlines,GDL,SJD,14,9,2015,44,female,On vacation/Pleasure,Hotel,,True,106
+Volaris,JFK,PHX,20,3,2016,90,undisclosed,Business/Work,Friend/Family,,True,232
+Volaris,JFK,AICM,19,5,2014,3,male,On vacation/Pleasure,Home,,True,670
+Alaska,SJC,PHX,9,3,2016,86,female,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,GDL,AICM,19,9,2019,16,male,On vacation/Pleasure,Friend/Family,,True,71
+Southwest Airlines,PDX,JFK,23,6,2013,72,female,On vacation/Pleasure,Friend/Family,,True,43
+MagniCharters,AICM,AIFA,22,11,2016,26,undisclosed,Business/Work,Home,Car rental,False,0
+Viva Aerobus,PDX,JFK,5,5,2017,82,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Southwest Airlines,AICM,LAX,19,5,2017,82,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,PHX,25,4,2018,58,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Delta Airlines,PDX,JFK,14,5,2020,52,male,Business/Work,Friend/Family,Car rental,False,0
+Delta Airlines,SJC,AICM,31,7,2015,88,female,Business/Work,Short-term homestay,Car rental,False,0
+Volaris,AIFA,LAX,4,12,2020,21,female,On vacation/Pleasure,Hotel,Car rental,False,0
+Southwest Airlines,LAX,PDX,7,6,2021,61,female,Back Home,Home,Car rental,False,0
+Delta Airlines,SJD,PHX,1,1,2017,17,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,PDX,PHX,23,1,2016,83,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,PHX,AIFA,2,8,2022,20,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+MagniCharters,JFK,AIFA,27,6,2022,82,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,SJC,AICM,8,8,2013,7,male,On vacation/Pleasure,Friend/Family,,True,414
+Volaris,JFK,AIFA,16,10,2014,33,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,AIFA,GDL,23,5,2017,51,male,On vacation/Pleasure,Short-term homestay,,True,582
+Volaris,AICM,AIFA,22,11,2021,85,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,SJD,8,10,2021,28,male,Back Home,Home,Car rental,False,0
+Delta Airlines,SJD,GDL,27,12,2020,59,undisclosed,On vacation/Pleasure,Short-term homestay,,True,481
+MagniCharters,GDL,AICM,26,11,2015,11,unspecified,Business/Work,Hotel,Car rental,False,0
+Aero Calafia Airlines,PHX,SJD,24,8,2018,32,male,Back Home,Home,Car rental,False,0
+American Airlines,JFK,SJC,1,9,2019,17,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,PHX,SJC,31,10,2021,41,male,Back Home,Home,Car rental,False,0
+Delta Airlines,SJD,SJC,6,11,2015,68,female,Back Home,Home,Car rental,False,0
+Aeromexico,PDX,SJC,21,11,2018,10,female,Back Home,Home,Car rental,False,0
+MagniCharters,AIFA,JFK,1,7,2013,10,male,On vacation/Pleasure,Hotel,Car rental,False,0
+Aero Calafia Airlines,LAX,PDX,3,10,2016,10,unspecified,On vacation/Pleasure,Home,,True,258
+Aeromexico,AICM,PHX,17,10,2019,21,undisclosed,On vacation/Pleasure,Short-term homestay,,True,565
+Southwest Airlines,SJC,AICM,14,10,2017,16,undisclosed,Business/Work,Home,,True,290
+MagniCharters,LAX,PHX,12,11,2017,68,male,On vacation/Pleasure,Hotel,Car rental,False,0
+Aeromexico,AICM,JFK,22,8,2017,62,unspecified,Business/Work,Home,Car rental,False,0
+Southwest Airlines,PHX,GDL,29,9,2021,89,unspecified,On vacation/Pleasure,Home,,True,511
+American Airlines,AIFA,LAX,19,5,2020,78,female,Business/Work,Hotel,,True,481
+Aero Calafia Airlines,GDL,AIFA,24,7,2015,46,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Viva Aerobus,PDX,SJC,5,9,2017,62,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,LAX,PDX,16,5,2020,77,undisclosed,Back Home,Home,Car rental,False,0
+Volaris,SJD,AICM,3,7,2016,29,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+MagniCharters,AICM,SJD,23,4,2019,13,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,SJC,SJD,26,10,2016,55,undisclosed,Business/Work,Hotel,,True,692
+Viva Aerobus,SJC,GDL,25,10,2019,54,undisclosed,Business/Work,Home,Car rental,False,0
+Aero Calafia Airlines,LAX,SJD,6,2,2016,22,female,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,PHX,SJD,5,7,2018,48,undisclosed,Business/Work,Hotel,Car rental,False,0
+MagniCharters,GDL,JFK,11,8,2019,22,unspecified,Back Home,Home,Car rental,False,0
+Volaris,JFK,AIFA,10,1,2016,46,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,AICM,GDL,18,4,2023,3,female,On vacation/Pleasure,Short-term homestay,,True,534
+Aeromexico,LAX,AICM,24,10,2017,84,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,JFK,SJD,22,6,2018,81,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,PHX,SJD,17,6,2017,36,male,Back Home,Home,Car rental,False,0
+MagniCharters,AICM,PDX,28,8,2016,72,female,On vacation/Pleasure,Friend/Family,,True,193
+Alaska,SJD,JFK,24,1,2020,64,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,GDL,AIFA,29,3,2019,48,unspecified,Back Home,Home,Car rental,False,0
+Volaris,SJD,PHX,7,7,2014,12,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,AIFA,GDL,5,1,2021,48,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,PHX,SJD,26,9,2018,31,undisclosed,On vacation/Pleasure,Short-term homestay,,True,674
+Aeromexico,GDL,SJC,17,7,2021,26,unspecified,Business/Work,Home,Car rental,False,0
+Southwest Airlines,PDX,AICM,14,6,2019,59,unspecified,Business/Work,Home,,True,719
+Delta Airlines,AICM,SJD,20,12,2014,64,male,Back Home,Home,Car rental,False,0
+Aeromexico,SJD,PHX,18,10,2020,36,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,SJD,JFK,5,7,2015,72,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,SJD,JFK,21,9,2015,10,male,On vacation/Pleasure,Short-term homestay,,True,273
+Alaska,SJD,PHX,3,8,2015,41,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+MagniCharters,JFK,AIFA,30,10,2021,48,undisclosed,On vacation/Pleasure,Home,,True,275
+MagniCharters,SJC,PDX,29,6,2016,11,undisclosed,Business/Work,Hotel,,True,471
+Aero Calafia Airlines,PHX,AIFA,15,6,2013,52,unspecified,Business/Work,Hotel,Car rental,False,0
+Aeromexico,LAX,JFK,18,12,2015,76,unspecified,Business/Work,Home,,True,619
+Aeromexico,SJC,GDL,13,2,2021,22,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Aeromexico,SJD,JFK,31,8,2019,7,male,On vacation/Pleasure,Short-term homestay,,True,140
+Aero Calafia Airlines,PHX,LAX,4,8,2017,45,male,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Viva Aerobus,PHX,SJD,9,6,2013,53,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AIFA,LAX,21,11,2015,25,undisclosed,On vacation/Pleasure,Home,,True,87
+Aero Calafia Airlines,AIFA,LAX,9,8,2019,32,undisclosed,On vacation/Pleasure,Hotel,,True,383
+Southwest Airlines,AIFA,PHX,20,7,2013,28,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,SJD,AICM,8,6,2018,46,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,PHX,GDL,29,4,2018,38,undisclosed,Business/Work,Hotel,,True,198
+Aeromexico,PDX,LAX,10,3,2013,17,male,Back Home,Home,Car rental,False,0
+MagniCharters,JFK,LAX,17,1,2014,53,male,On vacation/Pleasure,Hotel,Car rental,False,0
+Southwest Airlines,LAX,SJD,3,11,2022,13,female,On vacation/Pleasure,Friend/Family,,True,159
+American Airlines,LAX,JFK,26,4,2014,16,unspecified,Business/Work,Hotel,Car rental,False,0
+Volaris,PHX,AIFA,1,8,2017,72,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Delta Airlines,AIFA,LAX,15,6,2013,81,undisclosed,On vacation/Pleasure,Friend/Family,,True,709
+Alaska,PHX,SJC,3,3,2015,51,female,Back Home,Home,Car rental,False,0
+Viva Aerobus,PDX,AIFA,17,2,2021,57,female,Business/Work,Friend/Family,Car rental,False,0
+MagniCharters,LAX,SJC,9,12,2018,85,undisclosed,Business/Work,Hotel,,True,620
+Viva Aerobus,GDL,AICM,22,1,2016,89,undisclosed,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AIFA,SJD,24,7,2021,21,male,Back Home,Home,Car rental,False,0
+American Airlines,AIFA,PHX,12,10,2019,28,undisclosed,Business/Work,Hotel,Car rental,False,0
+Aeromexico,GDL,PDX,30,9,2019,67,female,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aeromexico,JFK,SJC,24,6,2017,43,unspecified,Business/Work,Hotel,Car rental,False,0
+Alaska,GDL,SJC,9,4,2020,68,female,On vacation/Pleasure,Home,,True,238
+Southwest Airlines,SJC,PHX,8,9,2013,89,undisclosed,On vacation/Pleasure,Friend/Family,,True,504
+Aeromexico,SJC,AIFA,24,1,2021,32,undisclosed,On vacation/Pleasure,Hotel,,True,634
+MagniCharters,AIFA,JFK,20,9,2021,87,male,On vacation/Pleasure,Hotel,Car rental,False,0
+MagniCharters,PDX,JFK,19,5,2014,77,female,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aeromexico,SJD,PDX,10,12,2021,82,undisclosed,Back Home,Home,Car rental,False,0
+Delta Airlines,PDX,GDL,9,10,2021,21,unspecified,Business/Work,Friend/Family,Car rental,False,0
+Aeromexico,GDL,LAX,14,2,2013,10,female,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Alaska,PHX,AIFA,2,6,2013,78,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,PDX,PHX,12,10,2019,59,female,On vacation/Pleasure,Home,Car rental,False,0
+Alaska,AICM,JFK,5,7,2013,58,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,PHX,AICM,20,6,2022,47,female,Back Home,Home,Car rental,False,0
+Alaska,SJD,SJC,2,1,2016,61,undisclosed,Back Home,Home,Car rental,False,0
+American Airlines,AICM,PHX,12,6,2021,28,female,Back Home,Home,Car rental,False,0
+Volaris,AICM,JFK,3,1,2020,87,unspecified,Business/Work,Home,Car rental,False,0
+Viva Aerobus,PHX,AIFA,9,1,2020,27,unspecified,On vacation/Pleasure,Friend/Family,,True,702
+MagniCharters,PHX,SJC,27,12,2022,42,male,Back Home,Home,Car rental,False,0
+MagniCharters,SJC,LAX,19,9,2020,86,male,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aeromexico,PHX,GDL,16,6,2018,51,male,Back Home,Home,Car rental,False,0
+Delta Airlines,SJD,LAX,27,10,2014,48,unspecified,Business/Work,Hotel,Car rental,False,0
+Volaris,JFK,AIFA,16,7,2021,65,unspecified,On vacation/Pleasure,Home,Car rental,False,0
+Viva Aerobus,PDX,SJC,11,5,2021,23,female,Business/Work,Home,,True,52
+Aero Calafia Airlines,GDL,AICM,27,7,2020,53,undisclosed,On vacation/Pleasure,Home,,True,719
+Alaska,AICM,PDX,27,1,2019,27,female,Business/Work,Friend/Family,Car rental,False,0
+Delta Airlines,AICM,PDX,29,10,2014,57,male,On vacation/Pleasure,Home,Car rental,False,0
+MagniCharters,PDX,PHX,14,11,2016,51,male,Business/Work,Hotel,Car rental,False,0
+Viva Aerobus,PHX,LAX,15,12,2021,25,female,Back Home,Home,Car rental,False,0
+American Airlines,SJC,LAX,28,12,2016,23,unspecified,Back Home,Home,Car rental,False,0
+Southwest Airlines,PDX,SJC,1,5,2017,4,undisclosed,Business/Work,Hotel,,True,505
+Southwest Airlines,PHX,LAX,21,2,2016,88,unspecified,Back Home,Home,Car rental,False,0
+MagniCharters,GDL,SJD,3,5,2020,28,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+MagniCharters,PDX,GDL,1,1,2014,38,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Southwest Airlines,SJD,PDX,27,1,2022,55,male,On vacation/Pleasure,Short-term homestay,,True,234
+American Airlines,SJD,AIFA,19,10,2019,70,male,On vacation/Pleasure,Friend/Family,,True,251
+American Airlines,SJC,PHX,27,2,2014,29,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+American Airlines,JFK,AIFA,11,2,2021,81,unspecified,Business/Work,Short-term homestay,,True,412
+Viva Aerobus,LAX,PHX,4,3,2015,33,female,Business/Work,Home,Car rental,False,0
+Delta Airlines,PDX,SJC,15,6,2019,52,undisclosed,On vacation/Pleasure,Hotel,,True,495
+Volaris,SJD,AIFA,12,1,2015,21,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aeromexico,SJC,JFK,9,9,2022,33,female,Business/Work,Home,,True,250
+MagniCharters,JFK,SJC,20,4,2023,27,male,Back Home,Home,Car rental,False,0
+Delta Airlines,PDX,JFK,23,6,2019,86,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+American Airlines,AICM,PHX,6,2,2020,80,male,Business/Work,Friend/Family,Car rental,False,0
+Delta Airlines,AIFA,AICM,18,11,2013,19,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+MagniCharters,GDL,SJC,13,10,2022,17,undisclosed,Business/Work,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,PHX,17,9,2018,24,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Southwest Airlines,AIFA,PHX,21,5,2022,25,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+MagniCharters,LAX,SJC,13,9,2019,46,male,On vacation/Pleasure,Home,Car rental,False,0
+Volaris,GDL,PDX,1,3,2014,63,unspecified,Business/Work,Friend/Family,,True,364
+Aeromexico,SJC,GDL,30,8,2017,40,unspecified,On vacation/Pleasure,Home,Car rental,False,0
+MagniCharters,GDL,AICM,19,5,2022,44,female,Business/Work,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,AICM,GDL,12,4,2023,18,male,Back Home,Home,Car rental,False,0
+Delta Airlines,AICM,GDL,12,7,2019,33,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,SJD,PHX,13,11,2021,17,unspecified,Back Home,Home,Car rental,False,0
+Delta Airlines,JFK,PDX,15,2,2019,84,undisclosed,Business/Work,Hotel,,True,293
+Volaris,SJD,AIFA,13,9,2016,8,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+American Airlines,SJC,LAX,30,7,2019,59,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+Volaris,SJD,AICM,4,6,2016,61,female,On vacation/Pleasure,Home,,True,621
+Alaska,AICM,PHX,3,2,2014,62,male,On vacation/Pleasure,Home,,True,324
+American Airlines,PHX,SJD,19,10,2022,43,female,On vacation/Pleasure,Hotel,,True,101
+Aeromexico,PHX,GDL,25,11,2017,58,undisclosed,On vacation/Pleasure,Friend/Family,,True,331
+American Airlines,SJD,PDX,18,2,2018,89,female,Business/Work,Hotel,,True,522
+MagniCharters,SJD,PHX,26,12,2022,58,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Volaris,LAX,AICM,10,11,2013,6,female,Back Home,Home,Car rental,False,0
+Volaris,SJD,AICM,18,3,2019,29,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,PHX,JFK,8,8,2014,1,undisclosed,Business/Work,Home,Car rental,False,0
+American Airlines,LAX,SJC,11,2,2017,68,female,Business/Work,Short-term homestay,Car rental,False,0
+MagniCharters,SJD,LAX,28,6,2019,51,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,LAX,SJD,26,11,2022,89,female,Back Home,Home,Car rental,False,0
+Aeromexico,LAX,SJD,9,10,2016,77,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,JFK,LAX,27,9,2019,86,female,Back Home,Home,Car rental,False,0
+Viva Aerobus,AICM,AIFA,30,8,2022,12,unspecified,Business/Work,Home,,True,566
+MagniCharters,GDL,PDX,8,5,2017,72,female,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,AIFA,SJC,29,2,2016,26,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,JFK,SJD,4,9,2019,69,female,Back Home,Home,Car rental,False,0
+MagniCharters,AIFA,LAX,17,12,2018,13,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+MagniCharters,AIFA,GDL,26,7,2019,14,male,On vacation/Pleasure,Friend/Family,,True,493
+Volaris,AICM,AIFA,15,2,2014,58,undisclosed,Back Home,Home,Car rental,False,0
+Alaska,PDX,AIFA,23,4,2013,3,female,Business/Work,Friend/Family,Car rental,False,0
+Delta Airlines,SJD,SJC,2,8,2018,76,undisclosed,Business/Work,Home,Car rental,False,0
+Aero Calafia Airlines,PDX,AIFA,21,1,2019,60,unspecified,Business/Work,Home,,True,265
+Viva Aerobus,AIFA,AICM,23,5,2019,66,unspecified,Business/Work,Hotel,Car rental,False,0
+Alaska,SJD,GDL,26,9,2013,24,female,Back Home,Home,Car rental,False,0
+Delta Airlines,LAX,AICM,28,2,2014,28,male,On vacation/Pleasure,Short-term homestay,,True,54
+Aero Calafia Airlines,SJC,GDL,27,1,2021,83,undisclosed,Back Home,Home,Car rental,False,0
+Southwest Airlines,GDL,AICM,1,2,2022,2,female,Business/Work,Short-term homestay,,True,697
+Volaris,PDX,GDL,7,10,2018,49,unspecified,On vacation/Pleasure,Short-term homestay,,True,606
+MagniCharters,PHX,SJC,28,6,2016,59,undisclosed,On vacation/Pleasure,Short-term homestay,,True,684
+Southwest Airlines,SJC,AIFA,19,1,2020,59,female,On vacation/Pleasure,Home,,True,421
+Viva Aerobus,AICM,PDX,19,8,2015,28,unspecified,On vacation/Pleasure,Home,Car rental,False,0
+MagniCharters,AIFA,JFK,8,4,2016,89,male,Business/Work,Friend/Family,Car rental,False,0
+American Airlines,JFK,SJC,30,10,2013,82,female,On vacation/Pleasure,Home,,True,48
+Delta Airlines,AIFA,JFK,20,4,2014,33,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,AIFA,PDX,4,5,2019,36,undisclosed,Business/Work,Hotel,,True,645
+Viva Aerobus,SJD,AICM,5,2,2023,84,unspecified,Business/Work,Friend/Family,,True,695
+Delta Airlines,AIFA,JFK,12,5,2022,12,female,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,LAX,JFK,18,9,2020,54,female,Back Home,Home,Car rental,False,0
+Aeromexico,JFK,PDX,7,1,2019,64,unspecified,On vacation/Pleasure,Hotel,,True,138
+Volaris,SJC,PHX,30,3,2018,35,unspecified,Business/Work,Short-term homestay,,True,612
+Southwest Airlines,SJC,PHX,6,3,2022,44,male,Business/Work,Hotel,Car rental,False,0
+American Airlines,SJD,LAX,29,1,2023,52,female,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,AICM,PHX,13,4,2018,23,male,On vacation/Pleasure,Friend/Family,,True,462
+MagniCharters,GDL,JFK,19,5,2022,34,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+MagniCharters,AICM,GDL,18,3,2019,81,undisclosed,On vacation/Pleasure,Hotel,,True,466
+Southwest Airlines,SJC,AIFA,4,6,2017,42,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,PHX,AICM,27,11,2016,4,unspecified,Business/Work,Hotel,,True,509
+Aeromexico,PDX,AICM,14,3,2014,71,male,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,AIFA,LAX,15,9,2017,61,undisclosed,Business/Work,Short-term homestay,,True,642
+Southwest Airlines,AIFA,SJD,6,1,2019,21,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aeromexico,JFK,SJC,4,6,2018,16,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Aero Calafia Airlines,PHX,LAX,5,4,2014,79,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Alaska,LAX,AIFA,11,6,2018,22,undisclosed,Business/Work,Friend/Family,,True,565
+Volaris,PDX,PHX,25,6,2016,57,unspecified,On vacation/Pleasure,Home,,True,128
+Delta Airlines,LAX,GDL,15,6,2018,7,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,PDX,SJC,29,6,2021,6,male,Back Home,Home,Car rental,False,0
+Delta Airlines,GDL,AICM,25,5,2015,90,unspecified,On vacation/Pleasure,Friend/Family,,True,286
+Aero Calafia Airlines,SJD,GDL,4,11,2017,27,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,GDL,PDX,11,3,2015,70,male,Back Home,Home,Car rental,False,0
+MagniCharters,AICM,JFK,3,1,2013,40,male,Back Home,Home,Car rental,False,0
+Viva Aerobus,AICM,PDX,19,9,2021,19,undisclosed,Business/Work,Home,,True,658
+Alaska,JFK,PDX,9,11,2020,70,female,Back Home,Home,Car rental,False,0
+Aeromexico,GDL,PHX,5,12,2022,67,male,Back Home,Home,Car rental,False,0
+American Airlines,JFK,AICM,7,10,2014,58,unspecified,Back Home,Home,Car rental,False,0
+Southwest Airlines,SJD,AIFA,14,2,2015,40,male,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,SJC,JFK,6,4,2023,73,unspecified,Business/Work,Short-term homestay,Car rental,False,0
+Viva Aerobus,SJD,AIFA,8,10,2022,3,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+Delta Airlines,AIFA,JFK,12,11,2014,71,unspecified,Back Home,Home,Car rental,False,0
+Viva Aerobus,PHX,JFK,13,7,2020,15,unspecified,Business/Work,Home,Car rental,False,0
+Viva Aerobus,PDX,JFK,1,5,2017,33,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AIFA,PDX,7,9,2022,3,female,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,PHX,LAX,11,8,2016,19,undisclosed,On vacation/Pleasure,Short-term homestay,,True,656
+Southwest Airlines,PDX,PHX,3,9,2019,6,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+Aeromexico,LAX,AICM,8,4,2013,10,undisclosed,On vacation/Pleasure,Home,,True,132
+Aeromexico,PHX,GDL,1,7,2014,11,female,Back Home,Home,Car rental,False,0
+Viva Aerobus,AIFA,PDX,13,6,2015,45,female,Business/Work,Hotel,Car rental,False,0
+Alaska,PHX,SJC,19,5,2015,22,female,Business/Work,Hotel,,True,78
+Viva Aerobus,SJC,SJD,26,10,2020,14,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,SJD,SJC,2,1,2019,86,unspecified,Business/Work,Friend/Family,Car rental,False,0
+Aeromexico,JFK,SJD,4,11,2017,66,unspecified,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,LAX,AIFA,22,7,2014,47,male,On vacation/Pleasure,Hotel,Car rental,False,0
+Alaska,SJC,PHX,22,2,2015,42,male,Back Home,Home,Car rental,False,0
+American Airlines,SJD,AICM,22,5,2022,81,female,Business/Work,Short-term homestay,,True,174
+Alaska,LAX,PDX,13,4,2020,73,unspecified,On vacation/Pleasure,Short-term homestay,,True,666
+American Airlines,LAX,PDX,2,3,2021,6,undisclosed,Business/Work,Home,Car rental,False,0
+Delta Airlines,AICM,SJC,10,8,2013,27,male,On vacation/Pleasure,Home,,True,356
+Volaris,PHX,SJC,17,1,2018,3,undisclosed,Business/Work,Friend/Family,Car rental,False,0
+American Airlines,SJC,PHX,25,7,2014,82,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Aeromexico,JFK,GDL,8,12,2022,13,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Alaska,JFK,AICM,18,12,2017,62,unspecified,Business/Work,Friend/Family,,True,711
+Volaris,PHX,LAX,27,2,2022,14,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Southwest Airlines,JFK,PDX,29,10,2020,31,male,Back Home,Home,Car rental,False,0
+Alaska,AICM,PHX,26,12,2015,45,unspecified,Business/Work,Short-term homestay,,True,198
+Alaska,LAX,JFK,27,1,2019,50,male,Business/Work,Hotel,Car rental,False,0
+Aero Calafia Airlines,PHX,AICM,9,3,2021,72,undisclosed,On vacation/Pleasure,Short-term homestay,,True,321
+Southwest Airlines,GDL,JFK,25,12,2020,17,male,Business/Work,Friend/Family,,True,428
+Volaris,SJD,PHX,21,6,2015,65,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,PDX,AIFA,7,1,2020,86,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,SJD,JFK,26,12,2022,68,unspecified,On vacation/Pleasure,Home,,True,472
+Aero Calafia Airlines,SJC,GDL,16,4,2020,47,female,On vacation/Pleasure,Hotel,Car rental,False,0
+Delta Airlines,PDX,AICM,4,3,2017,6,undisclosed,Back Home,Home,Car rental,False,0
+Aeromexico,PHX,AIFA,15,5,2016,29,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aeromexico,AIFA,LAX,30,12,2020,73,female,Business/Work,Short-term homestay,,True,361
+Aeromexico,PDX,PHX,6,11,2020,78,female,Business/Work,Friend/Family,,True,451
+Volaris,SJC,JFK,10,7,2019,44,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,SJD,GDL,29,7,2014,22,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+American Airlines,AICM,SJD,19,4,2014,81,female,Back Home,Home,Car rental,False,0
+Southwest Airlines,SJC,SJD,6,1,2023,23,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Alaska,AICM,JFK,27,3,2013,40,female,Back Home,Home,Car rental,False,0
+MagniCharters,LAX,GDL,9,10,2019,74,undisclosed,On vacation/Pleasure,Home,,True,535
+Aeromexico,PHX,GDL,9,11,2018,25,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,JFK,SJD,12,5,2022,61,female,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Volaris,AIFA,AICM,17,7,2016,24,undisclosed,Back Home,Home,Car rental,False,0
+Delta Airlines,SJC,AIFA,26,11,2014,5,unspecified,Business/Work,Hotel,,True,283
+Southwest Airlines,GDL,PHX,20,12,2021,17,unspecified,On vacation/Pleasure,Home,,True,363
+Aero Calafia Airlines,SJD,PDX,2,2,2022,67,male,Business/Work,Friend/Family,,True,236
+American Airlines,AICM,PDX,1,11,2019,54,unspecified,Business/Work,Home,Car rental,False,0
+Viva Aerobus,AICM,SJC,14,4,2016,44,undisclosed,Business/Work,Home,Car rental,False,0
+Delta Airlines,SJC,AIFA,3,11,2014,22,female,Business/Work,Hotel,Car rental,False,0
+Southwest Airlines,AICM,GDL,18,7,2021,73,unspecified,Business/Work,Short-term homestay,,True,367
+Southwest Airlines,LAX,AICM,15,8,2015,77,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,LAX,GDL,6,6,2020,42,male,Business/Work,Hotel,,True,551
+Viva Aerobus,LAX,PDX,15,8,2013,3,unspecified,Business/Work,Short-term homestay,,True,107
+American Airlines,AIFA,LAX,20,10,2016,78,female,On vacation/Pleasure,Home,Car rental,False,0
+Aero Calafia Airlines,SJC,SJD,31,1,2018,84,male,Business/Work,Home,,True,421
+American Airlines,PHX,JFK,8,9,2013,19,male,Back Home,Home,Car rental,False,0
+Volaris,GDL,AICM,1,10,2020,33,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Delta Airlines,SJD,GDL,23,10,2014,43,unspecified,Back Home,Home,Car rental,False,0
+Alaska,PDX,AIFA,3,11,2019,64,female,Business/Work,Short-term homestay,,True,314
+Alaska,JFK,GDL,13,10,2015,40,female,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Alaska,AIFA,SJD,28,4,2020,24,undisclosed,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,LAX,PDX,1,6,2014,87,undisclosed,Business/Work,Friend/Family,,True,301
+Alaska,LAX,AIFA,15,7,2018,80,undisclosed,Business/Work,Home,Car rental,False,0
+MagniCharters,JFK,LAX,6,8,2022,29,female,On vacation/Pleasure,Friend/Family,Car rental,False,0
+American Airlines,AICM,GDL,17,1,2017,24,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+American Airlines,GDL,AIFA,8,4,2019,39,male,Business/Work,Home,,True,485
+American Airlines,AIFA,SJD,16,7,2020,87,female,Business/Work,Short-term homestay,Car rental,False,0
+Southwest Airlines,LAX,SJC,27,5,2015,17,female,On vacation/Pleasure,Hotel,,True,456
+Viva Aerobus,AIFA,SJC,21,7,2013,44,female,Back Home,Home,Car rental,False,0
+American Airlines,PDX,SJC,12,7,2013,32,female,Back Home,Home,Car rental,False,0
+Viva Aerobus,LAX,AICM,15,7,2016,39,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,GDL,AIFA,4,10,2019,82,female,On vacation/Pleasure,Short-term homestay,,True,489
+Aero Calafia Airlines,AICM,LAX,26,12,2019,71,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Delta Airlines,GDL,AICM,30,7,2018,44,female,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,PDX,JFK,28,9,2014,71,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,JFK,LAX,28,2,2022,31,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,SJC,PHX,11,5,2016,42,unspecified,Back Home,Home,Car rental,False,0
+Viva Aerobus,SJD,AICM,18,1,2017,29,male,Back Home,Home,Car rental,False,0
+Delta Airlines,PDX,LAX,25,4,2016,17,undisclosed,Back Home,Home,Car rental,False,0
+Southwest Airlines,PHX,JFK,5,4,2020,84,undisclosed,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,AICM,GDL,27,10,2019,36,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aeromexico,SJC,PDX,9,2,2013,11,male,Business/Work,Friend/Family,Car rental,False,0
+Aero Calafia Airlines,GDL,LAX,26,1,2017,20,unspecified,On vacation/Pleasure,Hotel,Car rental,False,0
+Volaris,SJD,AIFA,30,4,2021,34,female,On vacation/Pleasure,Hotel,,True,167
+MagniCharters,PDX,SJD,24,10,2020,22,unspecified,On vacation/Pleasure,Friend/Family,,True,566
+Alaska,SJD,AIFA,31,7,2022,26,male,Back Home,Home,Car rental,False,0
+Aero Calafia Airlines,LAX,SJC,2,12,2014,86,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+Delta Airlines,SJC,LAX,13,9,2015,69,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aeromexico,JFK,SJC,18,8,2015,29,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Viva Aerobus,PHX,GDL,29,5,2019,31,female,On vacation/Pleasure,Short-term homestay,,True,362
+American Airlines,PHX,PDX,20,2,2015,88,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,SJD,PHX,2,12,2018,1,female,Business/Work,Hotel,,True,146
+Alaska,LAX,JFK,1,3,2015,9,female,Back Home,Home,Car rental,False,0
+Delta Airlines,AIFA,PDX,15,6,2022,38,undisclosed,On vacation/Pleasure,Hotel,Car rental,False,0
+Southwest Airlines,PHX,SJC,31,8,2019,16,male,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+American Airlines,AICM,LAX,15,1,2017,48,undisclosed,Business/Work,Home,,True,173
+Viva Aerobus,SJC,JFK,23,10,2014,72,female,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Aeromexico,SJD,LAX,20,3,2015,27,undisclosed,On vacation/Pleasure,Friend/Family,,True,160
+Alaska,LAX,PHX,8,10,2017,35,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,AICM,AIFA,9,8,2017,23,female,Back Home,Home,Car rental,False,0
+Aeromexico,AICM,PDX,23,11,2021,89,undisclosed,On vacation/Pleasure,Home,,True,581
+Alaska,LAX,AICM,18,8,2021,63,undisclosed,Business/Work,Short-term homestay,Car rental,False,0
+Alaska,AICM,PDX,13,12,2015,59,female,Back Home,Home,Car rental,False,0
+Southwest Airlines,AIFA,AICM,16,9,2015,71,undisclosed,On vacation/Pleasure,Home,Car rental,False,0
+American Airlines,SJD,JFK,27,8,2019,81,male,Business/Work,Friend/Family,,True,560
+Delta Airlines,JFK,GDL,20,2,2019,33,unspecified,Business/Work,Hotel,Car rental,False,0
+MagniCharters,SJD,GDL,30,8,2016,40,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Viva Aerobus,PDX,SJC,28,3,2022,10,unspecified,Business/Work,Friend/Family,Car rental,False,0
+Aeromexico,AICM,SJC,21,4,2018,57,female,Back Home,Home,Car rental,False,0
+MagniCharters,PHX,SJC,20,4,2016,42,unspecified,Back Home,Home,Car rental,False,0
+Alaska,SJC,LAX,15,12,2019,21,male,Business/Work,Short-term homestay,Car rental,False,0
+Aero Calafia Airlines,LAX,SJD,7,10,2017,1,male,Business/Work,Friend/Family,,True,663
+American Airlines,SJC,AICM,16,5,2018,89,undisclosed,On vacation/Pleasure,Hotel,,True,496
+American Airlines,JFK,AIFA,25,1,2013,9,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+MagniCharters,AIFA,GDL,3,10,2022,85,unspecified,On vacation/Pleasure,Short-term homestay,,True,484
+American Airlines,SJD,AIFA,12,2,2016,86,female,Back Home,Home,Car rental,False,0
+Aeromexico,LAX,JFK,16,8,2020,23,female,Business/Work,Home,Car rental,False,0
+Alaska,PHX,PDX,21,10,2015,39,unspecified,Business/Work,Short-term homestay,,True,309
+Aeromexico,GDL,PHX,26,10,2022,43,male,Business/Work,Home,,True,210
+Southwest Airlines,SJC,AIFA,20,1,2017,9,male,On vacation/Pleasure,Hotel,,True,230
+Delta Airlines,PDX,SJC,24,8,2014,1,male,Back Home,Home,Car rental,False,0
+Viva Aerobus,AICM,SJC,27,10,2015,5,male,On vacation/Pleasure,Short-term homestay,,True,409
+MagniCharters,JFK,GDL,7,1,2013,10,unspecified,Back Home,Home,Car rental,False,0
+American Airlines,PHX,GDL,27,12,2014,53,female,Business/Work,Home,,True,83
+Southwest Airlines,JFK,SJD,15,4,2015,18,female,Business/Work,Hotel,,True,516
+Alaska,GDL,SJC,16,8,2015,3,female,Back Home,Home,Car rental,False,0
+Aeromexico,SJC,GDL,2,9,2021,41,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,GDL,AICM,27,1,2013,26,undisclosed,Business/Work,Short-term homestay,,True,369
+Southwest Airlines,SJC,PHX,25,1,2023,88,undisclosed,Business/Work,Short-term homestay,,True,464
+Aeromexico,PHX,LAX,22,5,2016,74,unspecified,Business/Work,Short-term homestay,,True,621
+MagniCharters,GDL,SJC,16,1,2022,44,undisclosed,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Aeromexico,SJD,AICM,3,2,2019,38,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,GDL,SJC,12,10,2016,56,undisclosed,Back Home,Home,Car rental,False,0
+Aeromexico,AICM,SJD,14,12,2022,66,female,Business/Work,Friend/Family,Car rental,False,0
+Southwest Airlines,JFK,SJC,6,10,2015,50,male,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Southwest Airlines,SJD,PHX,7,8,2013,66,male,Back Home,Home,Car rental,False,0
+Southwest Airlines,AIFA,JFK,11,10,2018,15,unspecified,On vacation/Pleasure,Friend/Family,,True,474
+Viva Aerobus,JFK,PDX,23,6,2017,73,female,On vacation/Pleasure,Friend/Family,,True,384
+American Airlines,SJD,GDL,18,3,2023,15,undisclosed,Back Home,Home,Car rental,False,0
+Viva Aerobus,JFK,SJC,7,8,2018,79,female,Business/Work,Friend/Family,,True,121
+Southwest Airlines,PHX,GDL,5,6,2021,26,undisclosed,Back Home,Home,Car rental,False,0
+MagniCharters,GDL,AIFA,16,8,2015,76,male,On vacation/Pleasure,Hotel,Car rental,False,0
+MagniCharters,SJC,GDL,9,8,2019,75,unspecified,On vacation/Pleasure,Hotel,,True,554
+Viva Aerobus,GDL,SJC,10,10,2022,78,female,Business/Work,Short-term homestay,,True,262
+Delta Airlines,PHX,SJC,24,6,2016,53,male,On vacation/Pleasure,Home,,True,51
+Aeromexico,SJD,PHX,6,2,2021,11,unspecified,On vacation/Pleasure,Short-term homestay,Car rental,False,0
+Delta Airlines,AICM,GDL,24,3,2021,15,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,SJD,PHX,4,4,2016,86,female,Back Home,Home,Car rental,False,0
+Volaris,GDL,SJD,28,1,2016,3,female,On vacation/Pleasure,Hotel,Car rental,False,0
+Volaris,LAX,PHX,18,5,2015,31,male,On vacation/Pleasure,Hotel,,True,43
+Viva Aerobus,PDX,AIFA,10,4,2020,56,male,Back Home,Home,Car rental,False,0
+Alaska,LAX,PDX,23,6,2014,35,undisclosed,Business/Work,Home,,True,380
+Delta Airlines,GDL,SJD,3,7,2015,74,unspecified,Back Home,Home,Car rental,False,0
+Alaska,SJD,LAX,2,2,2015,23,unspecified,Back Home,Home,Car rental,False,0
+Southwest Airlines,SJC,PDX,3,10,2021,31,unspecified,On vacation/Pleasure,Friend/Family,,True,613
+American Airlines,SJC,PHX,13,12,2022,57,unspecified,On vacation/Pleasure,Friend/Family,Car rental,False,0
+Delta Airlines,LAX,JFK,21,7,2021,54,female,Business/Work,Short-term homestay,Car rental,False,0
+Volaris,GDL,PHX,22,4,2018,88,female,On vacation/Pleasure,Home,,True,529
+Southwest Airlines,JFK,SJD,5,7,2014,61,unspecified,Back Home,Home,Car rental,False,0
+Viva Aerobus,SJD,AICM,17,8,2014,58,female,Business/Work,Friend/Family,,True,133
+Volaris,LAX,SJC,18,12,2014,16,male,Back Home,Home,Car rental,False,0
+Viva Aerobus,LAX,PHX,17,10,2020,1,unspecified,Back Home,Home,Car rental,False,0
+Aeromexico,LAX,JFK,28,11,2018,29,male,Back Home,Home,Car rental,False,0
+Alaska,JFK,LAX,8,12,2018,41,female,On vacation/Pleasure,Hotel,,True,717
+American Airlines,PHX,SJD,12,1,2015,76,undisclosed,Business/Work,Friend/Family,,True,506
